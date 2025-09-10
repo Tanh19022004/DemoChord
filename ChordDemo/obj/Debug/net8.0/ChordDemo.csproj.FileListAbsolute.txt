@@ -1,0 +1,14 @@
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\bin\Debug\net8.0\ChordDemo.exe
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\bin\Debug\net8.0\ChordDemo.deps.json
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\bin\Debug\net8.0\ChordDemo.runtimeconfig.json
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\bin\Debug\net8.0\ChordDemo.dll
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\bin\Debug\net8.0\ChordDemo.pdb
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.AssemblyInfoInputs.cache
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.AssemblyInfo.cs
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.dll
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\refint\ChordDemo.dll
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.pdb
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ChordDemo.genruntimeconfig.cache
+C:\Users\Dong\source\repos\ChordDemo\ChordDemo\obj\Debug\net8.0\ref\ChordDemo.dll
